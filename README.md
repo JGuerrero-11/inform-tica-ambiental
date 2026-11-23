@@ -30,7 +30,7 @@ La informática también tiene impacto ambiental, aunque muchos de sus servicios
 - **Uso:** los ordenadores, redes y centros de datos consumen electricidad. El impacto depende, entre otros factores, de la eficiencia de los equipos y del origen de la energía.
 - **Fin de vida:** abandonar aparatos electrónicos o desmontarlos sin control puede liberar sustancias perjudiciales y desperdiciar materiales recuperables.
 
-![Impacto ambiental del ciclo de vida tecnológico](./img/01-contaminacion-ambiental.png)
+![Impacto ambiental del ciclo de vida tecnológico](./01-contaminacion-ambiental.png)
 
 Por tanto, el impacto no se limita a la electricidad que consume un ordenador mientras está encendido: también cuenta cómo se fabrica, cuánto tiempo se utiliza y qué ocurre cuando deja de servir.
 
@@ -51,7 +51,7 @@ Los equipos electrónicos contienen materiales que pueden recuperarse, pero tamb
 > [!IMPORTANT]
 > **En España:** no tires los aparatos electrónicos ni sus baterías al contenedor convencional. Llévalos a un punto limpio o utiliza los sistemas de recogida habilitados por distribuidores y gestores autorizados. Consulta las condiciones de recogida de tu municipio o establecimiento.
 
-![Residuos de aparatos eléctricos y electrónicos](./img/02-residuos-raee.png)
+![Residuos de aparatos eléctricos y electrónicos](./02-residuos-raee.png)
 
 ### Ejemplo práctico
 
@@ -67,7 +67,7 @@ En informática se puede relacionar con varias situaciones:
 2. **Fin del soporte de software:** un dispositivo puede seguir funcionando, pero dejar de recibir actualizaciones de seguridad o compatibilidad.
 3. **Obsolescencia percibida:** la publicidad o las nuevas versiones pueden hacer que un dispositivo parezca anticuado aunque todavía cubra las necesidades de su usuario.
 
-![Obsolescencia en dispositivos informáticos](./img/03-obsolescencia.png)
+![Obsolescencia en dispositivos informáticos](./03-obsolescencia.png)
 
 ### ¿Cómo reducirla?
 
@@ -102,7 +102,7 @@ flowchart TD
     E --> F[Recuperar materiales]
 ```
 
-![Buenas prácticas de informática ecológica](./img/04-green-it.png)
+![Buenas prácticas de informática ecológica](./04-green-it.png)
 
 ## 5. Buenas prácticas
 
